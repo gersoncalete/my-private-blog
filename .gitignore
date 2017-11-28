@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+newapp
+db.sqlite3
+/static
+.DS_Store
+/bin
+/lib
+/lib64
+*.json
+*.cfg
+/share
