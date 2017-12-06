@@ -12,3 +12,4 @@ db.sqlite3
 *.cfg
 /share
 /local_settings.py
+.env
