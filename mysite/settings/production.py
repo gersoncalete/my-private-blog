@@ -5,7 +5,7 @@ import dj_database_url
 SECRET_KEY = 'k6v=%*r@g0kfw(ey%zl@e=7_q4l$j&@u-+!cj4n#kq)i+58qsb'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+#DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
